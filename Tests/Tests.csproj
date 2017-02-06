@@ -192,9 +192,9 @@
     <Service Include="{82A7F48D-3B50-4B1E-B82E-3ADA8210C358}" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\MSBuildCodeTransformations\MSBuildCodeTransformations.csproj">
+    <ProjectReference Include="..\MSBuildCodeTransformations\AddSuperClassToTestClasses.csproj">
       <Project>{fb9b330a-6c8c-4a77-82ea-baa7ec19ddbf}</Project>
-      <Name>MSBuildCodeTransformations</Name>
+      <Name>AddSuperClassToTestClasses</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
