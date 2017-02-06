@@ -1,7 +1,7 @@
 ﻿using System.Linq;
-using MSBuildCodeTransformations;
 using Microsoft.CodeAnalysis;
 using Microsoft.CodeAnalysis.CSharp;
+using MSBuildCodeTransformations;
 using Xunit;
 
 namespace Tests
